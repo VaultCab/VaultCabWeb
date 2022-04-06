@@ -30,4 +30,4 @@ features:
 ---  
 
 ## Team
-Charles Jones <charles.jones.98@mail.ru>
+Cameron Barnes <cameron.barnes.98@mail.ru>

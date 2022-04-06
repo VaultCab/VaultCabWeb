@@ -17,7 +17,7 @@
     "icons": "bash icons.sh"
   },
   "repository": "git@github.com:VaultCab/VaultCabWeb.git",
-  "author": "Charles Jones<charles.jones.98@mail.ru>",
+  "author": "Cameron Barnes<cameron.barnes.98@mail.ru>",
   "license": "GPL-3.0",
   "private": null
 }
